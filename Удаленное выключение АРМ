@@ -1,0 +1,2 @@
+Удаленное выключение АРМ
+(gwmi -comp Name_PC Win32_OperatingSystem).Shutdown()
